@@ -1,6 +1,5 @@
 # simple_shopping_getx
-
-A new Flutter project.
+simple shop ini hanya project latihan buat paham lagi
 
 ## Getting Started
 
